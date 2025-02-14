@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: red;
+}
+
+.center {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.left {
+    text-align: left;
+    vertical-align: middle;
+}
+
+.right {
+    text-align: right;
+    vertical-align: middle;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    border: 1px solid pink;
+    padding: 10px;
+    text-align: center;
+}
+
+.appreciation {
+    color: red;
+    font-size: 20px;
+}
