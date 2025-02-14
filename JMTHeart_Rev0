@@ -1,0 +1,66 @@
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+        <h1 class="center" style="font-size: 80px;"><u>Happy Valentines Day!</u></h1>
+
+    <table>
+        <tr>
+            <th class="left"><p class="center" style="font-size: 30px; color: red;">Our Winter Dance Selfie</p><img src="C:\Users\B1\Downloads\LoveSelfie.jpeg" alt="Selfie" width="400" height="500"></th>
+            <th class="center"><p class="center" style="font-size: 30px; color: red;">Our First Dance Kiss</p><img src="C:\Users\B1\Downloads\LoveDance.jpeg" alt="Dance" width="450" height="450"></th>
+            <th class="right"><p class="center" style="font-size: 30px; color: red;">When You Colored For Me At Work<</p><img src="C:\Users\B1\Downloads\LoveWork.jpeg" alt="Work" width="550" height="350"></th>
+        </tr>
+    </table>
+
+<div class = "Appreciation">
+    <table>
+        <tr>
+            <th><h2 class="left" style="font-size: 30px;"><u>Reasons Why I Love You:</u></h1></th>
+            <th><h4 class="right" style="font-size: 30px;"><u>Little Note For You:</u></h3></th>
+        </tr>
+    </table>
+</div>
+<table>
+    <th class="left">
+    <li style="font-size: 20px; color: red;">You are sweet</li>
+    <li style="font-size: 20px; color: red;">You are funny</li>
+    <li style="font-size: 20px; color: red;">You are loving</li>
+    <li style="font-size: 20px; color: red;">You are absolutely beautiful</li>
+    <li style="font-size: 20px; color: red;">You are pretty</li>
+    <li style="font-size: 20px; color: red;">I love your energy, you match<br> mine so well</li>
+    <li style="font-size: 20px; color: red;">The way you care about others<br> and put others first</li>
+    <li style="font-size: 20px; color: red;">The fact that no matter how hard<br> life gets, you never give up</li>
+    <li style="font-size: 20px; color: red;">The way you make me feel loved</li>
+    <li style="font-size: 20px; color: red;">Your personality is the best thing<br> about you</li>
+    </th>
+</table>
+
+<h3 class="center" style="font-size: 30px;"><u>Poem For You:</u></h3>
+<table>
+    <th class="center">
+        <p style="font-size: 20px; color: red;">
+            On this day of love so true,<br>
+            I give my heart and soul to you.<br>
+            Like the stars that light the night,<br>
+            You make my world shine warm and bright.<br>
+            <br>
+            Your laughter sings a melody,<br>
+            A tune that sets my spirit free.<br>
+            With every glance, with every touch,<br>
+            I fall again—I love you much.<br>
+            <br>
+            Through storm and calm, through joy and pain,<br>
+            I'll stand beside you in the rain.<br>
+            For every heartbeat, every sigh,<br>
+            You're my forever, my reason why.<br>
+            
+            So take my hand, let's dance through time,<br>
+            With love so endless, pure, divine.<br>
+            No words could ever quite convey,<br>
+            How much you mean—Happy Valentine's Day. </p>
+    </th>
+</table>
+</body>
+</html>
